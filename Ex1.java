@@ -17,6 +17,7 @@ public class Ex1 {
 		}
 		System.out.println("hi");
 		System.out.println(d);
+		System.out.println("hi");
 	}
 
 }
